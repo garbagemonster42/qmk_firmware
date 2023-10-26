@@ -1,0 +1,3 @@
+OLED_ENABLE = yes
+
+EXTRAFLAGS += -flto
